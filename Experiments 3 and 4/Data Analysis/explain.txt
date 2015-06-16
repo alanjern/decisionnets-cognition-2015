@@ -1,0 +1,1152 @@
+=== Subject 10: Information, Condition order: [2 1 3] ===
+-- Condition 1 --
+Round 1: all different
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: A
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 2 --
+Round 1: all are different
+Round 2: a
+Round 3: a
+Round 4: only last two are different
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 3 --
+Round 1: a
+Round 2: a
+Round 3: a
+Round 4: only last two are different
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: last is not different from the second
+Round 9: a
+Round 10: a
+
+
+=== Subject 10: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: all different
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 2 --
+Round 1: all different
+Round 2: z
+Round 3: a
+Round 4: only last two are different
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 3 --
+Round 1: all three are different
+Round 2: a
+Round 3: a
+Round 4: just the last two are different
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: not different from the second
+Round 9: a
+Round 10: a
+
+
+=== Subject 11: Information, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1: More likely to get all three with the 3 openings card
+Round 2: Two and a row indicates its not likely the first card but still possible
+Round 3: -
+Round 4: Four and a row is really beating the odds if Miles has the first card
+Round 5: I'm starting to believe he has the last card
+Round 6: -
+Round 7: -
+Round 8: -
+Round 9: -
+Round 10: -
+-- Condition 2 --
+Round 1: More likely to get them right with 3 openings
+Round 2: -
+Round 3: -
+Round 4: Getting one wrong eliminates #3
+Round 5: -
+Round 6: -
+Round 7: Starting to believe it is #2 as he hasn't doubled the second shape yet so he probably can see it
+Round 8: -
+Round 9: -
+Round 10: -
+-- Condition 3 --
+Round 1: She got it right so its more likely she has more openings in the card
+Round 2: -
+Round 3: Three and a row would be extremely lucky for the first card
+Round 4: The fact that she got one wrong makes me doubt she has the third card
+Round 5: -
+Round 6: For me its between card 1 and 2 but she has gotten a lot right so I think its 2
+Round 7: She isnt repeating the second shape so it seems she has the second card and not the card with one hole
+Round 8: I guess random luck got her to this point as there is no reason anyone would have picked the square if they had 2 or 3 openings
+Round 9: -
+Round 10: -
+
+
+=== Subject 11: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: Most likely to be 3 at this point
+Round 2: -
+Round 3: Still matching all 3
+Round 4: -
+Round 5: -
+Round 6: This many matches is starting to temp me into believing its the 3rd card
+Round 7: -
+Round 8: -
+Round 9: -
+Round 10: Matching all 10 makes me suspicous that its the 1st or 2nd card although it is still possible
+-- Condition 2 --
+Round 1: 3 is most likely at this point
+Round 2: -
+Round 3: -
+Round 4: Shouldnt be 3 judging from this card
+Round 5: -
+Round 6: I'll think its the second one until shapes 2 and 3 match
+Round 7: -
+Round 8: -
+Round 9: -
+Round 10: -
+-- Condition 3 --
+Round 1: Matched all three up so more likely to have to match all of them
+Round 2: -
+Round 3: Still matching
+Round 4: Card three would have resulted in a loss so its unlikely that is the card
+Round 5: -
+Round 6: -
+Round 7: The way they are picking may indicate that only the last two must be matched
+Round 8: Very unlikely at this point that it is card 3 or 2 as this would have resulted in a loss
+Round 9: -
+Round 10: -
+
+
+=== Subject 12: Information, Condition order: [1 2 3] ===
+-- Condition 1 --
+Round 1: a
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 2 --
+Round 1: a
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 3 --
+Round 1: a
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+
+
+=== Subject 12: Utility, Condition order: [1 2 3] ===
+-- Condition 1 --
+Round 1: a
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 2 --
+Round 1: a
+Round 2: a
+Round 3: a
+Round 4: Because there are two similar shapes I not believe he's using a different card.
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 3 --
+Round 1: a
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+
+
+=== Subject 14: Utility, Condition order: [2 3 1] ===
+-- Condition 1 --
+Round 1: All 3 shapes must exist in the bottom version.
+Round 2: a
+Round 3: a
+Round 4: a
+Round 5: a
+Round 6: a
+Round 7: a
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 2 --
+Round 1: Since all of the shapes are different, it most likely means that she was playing the bottom version of the game. If she played either the top or the middle version, then it is by chance that it just so happens that all 3 of the shapes were present at the same time whereas in the bottom version, the rules restrict someone to having all 3 shapes present.
+Round 2: a
+Round 3: a
+Round 4: It is impossible for this combination to exist in the bottom version. 
+Round 5: Same as round 1-3.
+Round 6: Same as round 4.
+Round 7: Same as round 4 and 6.
+Round 8: a
+Round 9: a
+Round 10: a
+-- Condition 3 --
+Round 1: All 3 shapes must exist in the bottom version.
+Round 2: a
+Round 3: a
+Round 4: Impossible for the bottom version to exist.
+Round 5: Same as round 1-3.
+Round 6: Same as round 4.
+Round 7: a
+Round 8: a
+Round 9: Same as round 1.
+Round 10: a
+
+
+=== Subject 15: Information, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: 100% correct
+Round 2: 100% correct
+Round 3: 100% correct
+Round 4: 100% correct
+Round 5: 100% correct
+Round 6: 100% correct
+Round 7: 100% correct
+Round 8: 100% correct
+Round 9: the same
+Round 10: the same
+-- Condition 2 --
+Round 1: He was correct
+Round 2: He was still correct
+Round 3: He was still correct
+Round 4: The portion of mistakes is 1/4
+Round 5: The portion of mistakes is 1/5
+Round 6: The portion of mistakes is 1/3
+Round 7: The portion of mistakes is 3/7
+Round 8: The portion of mistakes is 1/2
+Round 9: The portion of mistakes is 4/9
+Round 10: 4/10
+-- Condition 3 --
+Round 1: In the third version where Miles could see all the three cards, the possibility that he was correct is 100% 
+Round 2: More likely the third version, because he was 100% correct
+Round 3: He was still correct.
+Round 4: The portion of mistakes was 25%
+Round 5: 
+Round 6: The portion of mistakes is 33%
+Round 7: The portion of mistakes is 3/7
+Round 8: The portion of mistakes is 50%
+Round 9: The portion of mistakes is 4/9, roughly the same as 1/2, much lower than 2/3
+Round 10: 4/10 is roughly the same as 1/2, much lower than 2/3
+
+
+=== Subject 15: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: portion is 1
+Round 2: portion is 1
+Round 3: There still was no same shape, so the third version is more likely
+Round 4: The first two are less likely
+Round 5: same
+Round 6: same
+Round 7: same
+Round 8: same
+Round 9: same
+Round 10: same
+-- Condition 2 --
+Round 1: portion is 1
+Round 2: portion is 1
+Round 3: portion is 1
+Round 4: portion is 1/4
+Round 5: portion is 1/5
+Round 6: use portion
+Round 7: use portion
+Round 8: same
+Round 9: same
+Round 10: same
+-- Condition 3 --
+Round 1: The possibility that the was no same shape in the first version is 1/3, in the second version is 1/2 and in the third version is 1
+Round 2: The portion of rounds in which no shape is the same is 1
+Round 3: The portion is 1
+Round 4: The portion is 1/4
+Round 5: The portion is 1/5
+Round 6: The portion is 1/3
+Round 7: The portion is 3/7
+Round 8: The portion is 1/2
+Round 9: use portion
+Round 10: use portion
+
+
+=== Subject 16: Information, Condition order: [2 1 3] ===
+-- Condition 1 --
+Round 1: X
+Round 2: X
+Round 3: X
+Round 4: The more she gets right the more likely it is she was able to see all three.
+Round 5: Same.
+Round 6: X
+Round 7: X
+Round 8: X
+Round 9: X
+Round 10: X
+-- Condition 2 --
+Round 1: X
+Round 2: The better he does the less of a chance it is that one or more was blocked.
+Round 3: Same.
+Round 4: He made a mistake which implies at least one was covered up.
+Round 5: X
+Round 6: Same. Except now theres a bigger chance.
+Round 7: Same.
+Round 8: It's getting less likely that two were covered up because so far the top two shapes have always been different which implies that he could see them.
+Round 9: Same, just more apparent this time.
+Round 10: Same, just more apparent.
+-- Condition 3 --
+Round 1: X
+Round 2: The more he gets right, the less of a chance one or more was covered up.
+Round 3: Same reason.
+Round 4: Since he made a mistake between the first and last shape it's most likely the second card was used.
+Round 5: All three are right so for the fourth time so it's very unlikely the first one was used, making it more likely for the second one.
+Round 6: Same as before just more apparent.
+Round 7: Same as before, just more apparent.
+Round 8: The last two shapes are the same which gives reason to believe that Chris couldn't see the first two shapes.
+Round 9: Gee, now I'm just confused. what are the chances that he would have gotten all correct so many times, and the other shapes different a few times? He must be stupid or something. No way of knowing.
+Round 10: Yup, still confused.
+
+
+=== Subject 16: Utility, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1: X
+Round 2: X
+Round 3: It's getting less likely that two were covered up because at three rounds she picked a differing third shape; so what are the chances that if she wasn't forced to pick a different shape she would?
+Round 4: X
+Round 5: X
+Round 6: Same reason as before just more apparent. The more rounds there are the more I question her motives for picking a different one for the third shape.
+Round 7: X
+Round 8: X
+Round 9: X
+Round 10: X
+-- Condition 2 --
+Round 1: X
+Round 2: X
+Round 3: X
+Round 4: There are repeating shapes so it makes it less likely that the shape is the third one.
+Round 5: X
+Round 6: ...even more unlikely for the third one because there are repeating shapes in two different rounds.
+Round 7: Same.
+Round 8: It's never been that the last two shapes are the same, so chances are decreasing that it would be the first card.
+Round 9: X
+Round 10: X
+-- Condition 3 --
+Round 1: X
+Round 2: X
+Round 3: Same reason as Susan.
+Round 4: The card option that displays all three just became very less likely because there are repeats in the shapes. However it's possible there was a mistake or he was stupid, so it's not a level 1 of unlikely.
+Round 5: The final two shapes have been different for all the rounds so it's very likely it would be the second card and it's getting less likely it would be the first.
+Round 6: The chances he would make a mistake twice is very low, so I made the third card very unlikely.
+Round 7: Same thing.
+Round 8: because the top two are the same it makes it less likely he would pick the second card option. But there's still room for  mistake.
+Round 9: X
+Round 10: X
+
+
+=== Subject 18: Information, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1: it is harder to get them all different with the first to cards than with the third card
+Round 2:  
+Round 3:  
+Round 4:  
+Round 5: since they continue to get them all different its harder to think its the first or second card
+Round 6:  
+Round 7:  
+Round 8: getting more unlikely that the cards with anything covered up were used because they continue to get all things different
+Round 9:  
+Round 10: all shapes were different for the whole time. its very most likely the third card. If not the second but its very unlikely that is so
+-- Condition 2 --
+Round 1: its harder to keep them all different with the first or second cards, but all cards are possible.
+Round 2:   
+Round 3:  
+Round 4: so the third card is very unlikely because its very easy to keep them all different for maximum points. Thus the other 2 cards are now more likely.
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8: other than after the second trial, Chris seems to only change when the second box changes.
+Round 9:  
+Round 10: its a 1/6 chance when you have the first card that the second and third boxes will be the same. so hances are that would have happened once after 10 rounds. but its still possible to have the first card just not likely. So he probably has the third card.
+-- Condition 3 --
+Round 1: all shapes are different and its harder to do that for the first and second card
+Round 2:  
+Round 3:  
+Round 4: very unlikely that they had the third card since its very easy to keep all the shapes different. both the first and the second card are more likely now.
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8: the second card is now very unlikely since its easy to keep the last 2 boxes different with that card, leaving only the first card left.
+Round 9:  
+Round 10:  
+
+
+=== Subject 18: Utility, Condition order: [3 1 2] ===
+-- Condition 1 --
+Round 1: all the cards are likely, since all shapes are different.
+Round 2:  
+Round 3:  
+Round 4:  
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9:  
+Round 10:  
+-- Condition 2 --
+Round 1: all the cards are likely, since all shapes are different.
+Round 2:  
+Round 3:  
+Round 4: the last card requires all shapes to be different for maximum points.
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9:  
+Round 10:  
+-- Condition 3 --
+Round 1: The first card would just be a random shape so its a third chance she'd pick the square.    
+Round 2:  
+Round 3:  
+Round 4: now that all three shapes aren't different the third card is invalid. So the other 2 cards are more likely.
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9: the last 2 slots are the same in the last trial so only the first card can be for maximum points
+Round 10:  
+
+
+=== Subject 20: Information, Condition order: [2 3 1] ===
+-- Condition 1 --
+Round 1: Same as the reasoning to begin last trial.
+Round 2: Chances have changed, but not enough to lower change likelyhood scores.
+Round 3: Now more likely it was the card with 3 windows, as maximizing score for 3 rounds would be lucky for the other two cards.
+Round 4: Chances have changed, but not enough to change likelyhood scores.
+Round 5: Same as last response
+Round 6: To have maximzed the score for all six rounds makes it very unlikely the cards with 1 and two windows are being used as that would require extreme luck. Won't give scores of 1 or 7 because to me those correspond to certainty, but all 3 cards are still theoretically possible.
+Round 7: Same as before.
+Round 8: Same as before.
+Round 9: Same as before.
+Round 10: Same as before. Again, the likelyhood of playing with cards with one or two windows is very very small, but I reserve a score of 1 to mean impossible given logical play. The same argument applies to why I didn't choose 7 for the card with 3 windows.
+-- Condition 2 --
+Round 1: The chances of choosing the shape maximizing points with only 1 window are smaller than the chances of shoosing the shape maximizing points with 2 windows, which are smaller than the chances of choosing the correct shape with all 3 windows.
+Round 2: No new information
+Round 3: To have picked the card to maximize points 3 times in a row makes it very unlikley he has the card with 1 window, as that would require great luck. The probability is slightly higher for the card with two windows, must it is most likely the card with 3 windows.
+Round 4: Ok, so can't be the card with 3 windows that the chosen shape would be illogical. The card with two windows is still more likely than the card with 1 window though.
+Round 5: From the last round, it can't be the card with 3 windows. There is no new information to decide between the other two cards.
+Round 6: No new information
+Round 7: To have chosen a (third) shape to be different than the second shape for 7 rounds is very unlikely, so it is very unlikely it is the card with 1 window. Already ruled out card with 3 windows, so it is very likely the card with two windows.
+Round 8: No new information.
+Round 9: No new information
+Round 10: No new information. Didn't choose 2 for card with one window because it was still theoretically possible, and to me choosing 1 for likelyhood means impossible. Similarly didn't choose 7 for likelyhood of card with two windows, as it was possible it was the card with 1 window, and to me 7 means it must be the card.
+-- Condition 3 --
+Round 1: Chances of choosing correct shape with one windows is less than that of choosing correct shape with card with two windows which is less than that choosing correct shape with 3 windows.
+Round 2: No new information. (Actually the chances of it being the card with 1 window and two windows are less), but not enough to choose a lower likelyhood score.
+Round 3: Now the chances are lowerd enough I'm willing to choose a lowe score for 1 and two windows, and thus higher for 3 windows.
+Round 4: Well, not it can't be 3 windows, as that would be illogical. Chances of choosing the card with 2 windows is higher than the chances of choosing the card with 1 window, although both are possible yet.
+Round 5: Not enough trials yet to lower likelyhood of 1 window card.
+Round 6: After 6 rounds, it is most likely the card with two windows, as it would be very lucky to have chosen a (third) shape different than the second shape for all six rounds if playing with the first card.
+Round 7: No new information.
+Round 8: Must be using the first card, as the chosen shape would be illogical for the other two.
+Round 9: No new information.
+Round 10: No new information.
+
+
+=== Subject 20: Utility, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1: All are equally likely, as we have no relevent information yet.
+Round 2: The circle could have been chosen for any card to get a correct answer.
+Round 3: The final shape would be correct for any card.
+Round 4: The final shape could have been a triange regardless of the card.
+Round 5: Same as before
+Round 6: Same as before
+Round 7: Same as before
+Round 8: Same as before
+Round 9: Same as before
+Round 10: Same as before
+-- Condition 2 --
+Round 1: The chosen shape would be correct for every card.
+Round 2: The chosen shape would be correct for any card.
+Round 3: The chosen shape would be correct for any card.
+Round 4: Can't be the card with 3 windows, as that would be illogical. So the other two cards are equally likely.                                                                                         
+Round 5: No new information.
+Round 6: No new information
+Round 7: No new information
+Round 8: No new information.
+Round 9: No new information.
+Round 10: No new information
+-- Condition 3 --
+Round 1: The final shape chosen would be correct for any card.
+Round 2: The final shape chosen would be correct for any card.
+Round 3: Now that I think more about it more, it would be unusual to always pick a third different shape for the card with only 1 window because it really doesn't matter which shape is chosen. If the card with 1 window was being used, there would probably be more end games with duplicate shapes. Same argument applies to the second card, just to a lesser extent (there will be fewer duplicates).
+Round 4: Picking card with 3 windows would lose the game, so he very likely did not pick that one. Then the other two remaining cards are equally likely.
+Round 5: Because of the last game where it would be illogical to choose the card with 3 windows, I'm assuming that one is not being used, so it will get a likelyhood of 1 for the rest of the game.
+Round 6: No new information
+Round 7: No new information.
+Round 8: Picking the card with two windows would be illogical, as no points would be awarded. Therefore, because I already rulsed out the card with 3 windows, he must be using the card with 1 window.
+Round 9: I know the answer from last round.
+Round 10: Know the answer from the last round.
+
+
+=== Subject 21: Information, Condition order: [3 1 2] ===
+-- Condition 1 --
+Round 1: not enough data yet. 
+Round 2: Two correct answers in a row indicates a decent probability that Rachel was using one of the lower two cards. 
+Round 3: same
+Round 4: Four correct answers in a row either means that she's VERY lucky at guessing between the two possible choices on the last spot of the second card or that she's using the third card. 
+Round 5: same as the last one, but with five
+Round 6: same but with 6
+Round 7: same but with 7
+Round 8: same, but with 8
+Round 9: same but with 9
+Round 10: same but with 10
+-- Condition 2 --
+Round 1: Not enough data, yet. 
+Round 2: Another correct answer means there's less likelyhood that he was using one of the first two. 
+Round 3: same
+Round 4: The repeated squares mean that there's almost no wayh he could've been using the last card. He would've had to try to do bad to do this. 
+Round 5: All of these correct answers indicate that he was probably using the second card, because that would be a very unlikely thing for him to guess right 4/5 times with a 33% chance. 
+Round 6: This round didn't change anything. 
+Round 7: same
+Round 8: same
+Round 9: roughly the same 
+Round 10: With 6/10 correct "guesses", Chris was very likely using the second card. There's a 50% chance of guessing with the second, but only a 33% chance with the first. 
+-- Condition 3 --
+Round 1: There's not renough data yet to make a pattern, so it's likely that he could've just guessed and got it right. 
+Round 2: Another perfect one means that there's less of a chance of him using one of the first two cards and randomly guessing, but more of a chance that it was the third card. Not for sure, though. 
+Round 3: Same as the last explanation, but with three correct choices in a row. That's, if I'm thinking correctly, only like a three percent chance for the first card. 
+Round 4: This round pretty much eliminates the chance that he was using the third card, because he would have to deliberately fail if he was. This means there's a greater chance that he's using each of the first two. 
+Round 5: The correct choice means there is a higher chance of him using the second card. 
+Round 6: same
+Round 7: l
+Round 8: This rounds pretty much guarantees that he was using the first card, as he would not have chosen the square if he could see it as the second entry. 
+Round 9: z
+Round 10: a
+
+
+=== Subject 21: Utility, Condition order: [2 1 3] ===
+-- Condition 1 --
+Round 1: Pretty equally likely at this point; not enough data
+Round 2: more of a chance that it was the last two, because of the perfect matches in a row. 
+Round 3: same explanation
+Round 4: More likely that it was the last one because of the 4 straight matches. 
+Round 5: Same, except with 5 straight. 
+Round 6: 6 straight matches means that it's almost positively the last card. 
+Round 7: same
+Round 8: same
+Round 9: same
+Round 10: same
+-- Condition 2 --
+Round 1: equally likely that she was playing each of the cards. 
+Round 2: Less likely that she was playing the first two, because the card is still completely correct. 
+Round 3: same
+Round 4: Vvery unlikely that she was using the last card, because she would've been able to see the left most square. 
+Round 5: same
+Round 6: same, roughly
+Round 7: At this point, it's a lot less likely that she's using the first card, because the last two shapes haven't matched yet. 
+Round 8: same
+Round 9: same
+Round 10: It's almost assuredly the second card, because the only times shapes repeated were the first and third boxes, meaning that she must have been able to see the second box to make sure her choice didn't conflict. 
+-- Condition 3 --
+Round 1: not enough data
+Round 2: still not enough, but indicates a possible 2nd or 3rd card
+Round 3: same as before, except with most likely the third card
+Round 4: Can't be the third card because of the repeated circles
+Round 5: Most likely the second because of 4/5 perfect cards. That's more likely when she can see the middle than if she's taking a random guess with a 33% chance. 
+Round 6: same
+Round 7: same
+Round 8: This round means it has to be the first card because of the repeated triangles in the second and third windows. She wouldn't have picked that if she could see the second triangle
+Round 9: same
+Round 10: same
+
+
+=== Subject 22: Information, Condition order: [1 2 3] ===
+-- Condition 1 --
+Round 1: Well, with the one-open card, it will be fairly likely that he would choose any of the cards, so unless Miles establishes a non-random pattern that I witness, I'll likely always pick 5 for the one-empty card. If the card was two-empty, Miles would have made a correct decision, but it was one of two correct decisions, while in the three empty case he made the only correct decision.
+Round 2: Same as before.
+Round 3: Same as before.
+Round 4: Becoming a bit less likely that Miles always happens to pick the answer that works for both the 2 empty and 3 empty cases.
+Round 5: No new information.
+Round 6: No new information
+Round 7: At this point it seems likely that Miles has the three empty card, because in all 7 cases he picks the only correct answer for the three empty card.
+Round 8: Same as before, but becoming increasingly less likely that it's the one or two empty card cases.
+Round 9: Becoming increasingly less likely still.
+Round 10: Seems very probable that he had the 3 empty card case.
+-- Condition 2 --
+Round 1: Same reasoning as first round for Miles.
+Round 2: No new information.
+Round 3: No new information.
+Round 4: Now seems entirely unlikely that Rachel has the three empty card, picked one of the two correct answers for the two empty card. 
+Round 5: No new information.
+Round 6: No new information. 
+Round 7: Out of 7 cases has never picked the same card as the middle card, so becoming more likely that it's the 2 empty case.
+Round 8: Same reasoning as before, becoming increasingly less likely that it's the one card case.
+Round 9: Same reasoning as before.
+Round 10: Same reasoning as before; out of 10 cases she never picked the same card as in the middle case. 
+-- Condition 3 --
+Round 1: Same reasoning as before.
+Round 2: No new information.
+Round 3: No new information. 
+Round 4: No longer likely that it's the three empty case, still likely that it's either of the first two cases. 
+Round 5: Same reasoning as before
+Round 6: Same reasoning as before. 
+Round 7: Becoming less likely that it's the one empty case, because in 7 rounds, he never picked the same card as the middle case. 
+Round 8: Now since he has picked the same card as the middle case, he doesn't have two empty card. Also, for the first four rounds he picked different cards, and for the last four rounds he's only picked square, which I find weird because square was the furthest card from the submit button when I played, which implies that he's doing boredom wrong. 
+Round 9: Now he's doing boredom correctly.
+Round 10: Same as before. 
+
+
+=== Subject 22: Utility, Condition order: [3 1 2] ===
+-- Condition 1 --
+Round 1: Same reasoning as with Susan.
+Round 2: Same as before.
+Round 3: Same as with Susan.
+Round 4: Same as with Susan.
+Round 5: Same as with Susan.
+Round 6: 6 rounds where any card would work implies that Susan is using the last card, but it is still fairly likely that she's using any of the cards.
+Round 7: No new information.
+Round 8: No new information.
+Round 9: No new information.
+Round 10: No new information.
+-- Condition 2 --
+Round 1: Same as with Matt.
+Round 2: Same as with Matt.
+Round 3: Same as with Matt.
+Round 4: Same as when Susan was shown a similar card.
+Round 5: No new information.
+Round 6: No new information.
+Round 7: No new information.
+Round 8: The only correct answer for the two card game has been given 3 tiems in a row, which makes it comparably more likely than the one card case.
+Round 9: No new information.
+Round 10: No new information.
+-- Condition 3 --
+Round 1: A circle in the last box would be the correct answer for any of the three cards, but it is the only correct answer for the all empty card.
+Round 2: Same pattern as before, not enough iterations have occured yet to really confirm that she's using the all empty card.
+Round 3: Same pattern; still wouldn't be surprising if she was actually using either of the first two cards.
+Round 4: Assuming Susan understands the rules of the game, it's no longer likely at all that she's using the all empty card, but could still be using either the one empty or two empty cards. 
+Round 5: Same reasoning, no new information.
+Round 6: Same reasoning, no new information.
+Round 7: Same reasoning, no new information.
+Round 8: This card demonstrates that as long as Susan is a perfect player, she can't be using the two empty card.
+Round 9: Same reasoning.
+Round 10: Same reasoning.
+
+
+=== Subject 23: Information, Condition order: [3 1 2] ===
+-- Condition 1 --
+Round 1: correct answer, so decreasing likelihood with less windows
+Round 2: difficult to get two perfect combinations in a row without all 3 windows, but possible.
+Round 3: increasing likelihood of 3 windows, very low likelihood of 1
+Round 4: nc
+Round 5: pretty sure she see's all 3 windows, or has ESP
+Round 6: nc
+Round 7: nc
+Round 8: nc
+Round 9: nc
+Round 10: nc
+-- Condition 2 --
+Round 1: correct answer - probably has all 3 windows
+Round 2: correct answer, still more likely that he has all 3
+Round 3: no change, still thinking he has all 3 windows
+Round 4: no change that he has 3 windows. so by elimination, increased possibility of other two. probably doesn't have just 1 dindow, based on first 3 rounds
+Round 5: decreasing probability of 1 window. 3 window still ruled out
+Round 6: no change, this doesnt provide evidence to differntiate between 1 window and 2 windows
+Round 7: no change
+Round 8: no change
+Round 9: no change
+Round 10: no change, tho probably has 2 windows, 1 is relatively more possible than 3 windows which is virtually impossible so i didnt want to rate both the same
+-- Condition 3 --
+Round 1: can't tell much from only 1 round, but quite increasing likelihood of correct answer with more windows.
+Round 2: even more likely that he had all 3 windows open when he got both correct
+Round 3: even more unlikely, but remotely possible for both
+Round 4: entirely unlikely that he is playing the 3window version, increasing probability of other two by default, but still a greater likelihood of 2 than 1
+Round 5: no change
+Round 6: no change
+Round 7: no change
+Round 8: no change
+Round 9: no change
+Round 10: no change
+
+
+=== Subject 23: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: relatively more possible that she has 3 windows
+Round 2: nc
+Round 3: probably playing with all 3 windows
+Round 4: nc
+Round 5: more probable she's playing with 3 windows, most likely not playing with 1
+Round 6: nc
+Round 7: nc
+Round 8: nc
+Round 9: reduced probability of 1 and 2 windows, high probability of 3 windows
+Round 10: very likely she is playing 3 window version of game, all rounds were 3 different shapes
+-- Condition 2 --
+Round 1: 3 different shapes, most likely 3 windows, but all possible
+Round 2: same
+Round 3: increased probability of 3w, decreased 1w, 3 different shapes selected indicating all spots matter
+Round 4: no chance of 3 window - increased probability of others
+Round 5: no change
+Round 6: nc
+Round 7: no change
+Round 8: nc
+Round 9: nc
+Round 10: nc
+-- Condition 3 --
+Round 1: most likely playing the 3 window version, picked 3 different shapes indicating all mattered
+Round 2: no real change, slight increase in 3w probability, slight decrease in other 2, but not enough to change rating
+Round 3: very likely that she is playing 3 window game, though she could be OCD and playing the other two
+Round 4: impossible that she is playing the 3 window game, by implication, probability of other two increase
+Round 5: no change
+Round 6: no change
+Round 7: no change
+Round 8: no change
+Round 9: no change
+Round 10: no change
+
+
+=== Subject 24: Information, Condition order: [3 1 2] ===
+-- Condition 1 --
+Round 1: 5
+Round 2: 5
+Round 3: 5
+Round 4: 5
+Round 5: 5
+Round 6: 5
+Round 7: 5
+Round 8: 5
+Round 9: 5
+Round 10: Throughout the whole game. The player always chose shapes that were different from one another. Thus  she probably was able to see all of the shapes when making her desicion
+-- Condition 2 --
+Round 1: 5
+Round 2: 5
+Round 3: 5
+Round 4: 5
+Round 5: 5
+Round 6: 5
+Round 7: 5
+Round 8: 5
+Round 9: 5
+Round 10: Based on his trials. It seems like at some point he was unable to see the  one of the shapes. But it is hard to distinguish between verisons 1 and 2 however I doubt that he was playing version 3
+-- Condition 3 --
+Round 1: He picked all different shapes
+Round 2: 5
+Round 3: 5
+Round 4: Two shapes are the same
+Round 5: 5
+Round 6: 5
+Round 7: 5
+Round 8: 5
+Round 9: 5
+Round 10: 5
+
+
+=== Subject 24: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: She has the ability to choose any shape. They are all different thus she probably could see all the shapes that she was choosing from.
+Round 2: 5
+Round 3: 5
+Round 4: 5
+Round 5: 5
+Round 6: 5
+Round 7: 5
+Round 8: 5
+Round 9: 5
+Round 10: All of her shapes are different. THerefore she was probably able to see all of her shapes when make the desicion.
+-- Condition 2 --
+Round 1: He has the ability to see all the shapes he shouldnt choose from.
+Round 2: 5
+Round 3: 5
+Round 4:  It doesnt matter which one he picks therefore He could pic either one.
+Round 5: 5
+Round 6: 5
+Round 7: 5
+Round 8: 5
+Round 9: 5
+Round 10: 5
+-- Condition 3 --
+Round 1: k
+Round 2: 5
+Round 3: 5
+Round 4: two of the cards are the same. Thereore it is more lifely that she could only see one shape from which she had to make sure that she didnt choose the same shape
+Round 5: 5
+Round 6: 5
+Round 7: 5
+Round 8: It doesnt matter what she choose
+Round 9: 5
+Round 10: 5
+
+
+=== Subject 25: Information, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1: Unusual to get all three right if playing the first version. 
+Round 2: Same reason as before. 
+Round 3: Same reason as before. If he's consistently getting it right - choosing different shapes - likely because he has an "easier" version. 
+Round 4: I decreased the chances for the first version to 1 becuase Miles has now gotten four consecutive rounds correct. This would be highly unusual for the card where you can only see one box.  
+Round 5: Same as before.
+Round 6: Same as before.
+Round 7: I increased the chances for the third version to level 7. It is unlikely (not extremely unlikely, but generally unlikely) that you could get seven consecutively correct.
+Round 8: same as before.
+Round 9: same as before.
+Round 10: Same as before.
+-- Condition 2 --
+Round 1: he got it right - probably not the first version. 
+Round 2: same. 
+Round 3: has now got three consecutively correct - probably not the first one. 
+Round 4: definitely not the third one - he got something wrong. 
+Round 5: same
+Round 6: probably not the first one - has gotten too many correct to be playing that game. 
+Round 7: same
+Round 8: same
+Round 9: same
+Round 10: he got a majority correct, so he's probably not playing the first version unless he's really lucky. he got some wrong so he can't be playing the third version. he's probably playing the 2nd version.
+-- Condition 3 --
+Round 1: She got it correct - chances are she was playing an easier version. 
+Round 2: Same reason as before
+Round 3: same as before
+Round 4: If she got one wrong, she must not have been playing the easiest version. Chances go up for the second version. The first version is still somewhat unlikely because she got three consecutively correct.
+Round 5: same
+Round 6: same reason as that given for round 4
+Round 7: same
+Round 8: same
+Round 9: same
+Round 10: she got more correct than incorrect but she still had some incorrect answers so chances are that she was playing the second version of the game.  
+
+
+=== Subject 25: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: it could be any version. 
+Round 2: same reason.
+Round 3: same reason. 
+Round 4: same reason.
+Round 5:  chances that anna would have made the second and third boxes look alike by the fifth round are pretty good, so the fact that they have all been different so far decreases the chances that she is playing version 1. 
+Round 6: same reason as before.
+Round 7: same reason 
+Round 8: same reason as before
+Round 9: the chances that anna would have all three looking different when all that she needs to focus on is the difference between the second and third suggests that she is probably not playing the second version but is playing the third version. 
+Round 10: same reason as before. 
+-- Condition 2 --
+Round 1: he could be playing any of the games. 
+Round 2: same reason as before. 
+Round 3: same reason as before. 
+Round 4: he's either playing the first or second versions, not the third because the shapes are not all different
+Round 5: same reason
+Round 6: same reason
+Round 7: same reason
+Round 8: at this point, after seven rounds, i would have expected to see at least one round where the third box and second box were alike if matt was playing the first verision. as that result has not yet been displayed, it's less likely that he is playing that version of the game. 
+Round 9: same reason
+Round 10: same reason as before. if he were playing version 1 - he would probably have had the second and third boxes look the same at least once in 10 rounds. 
+-- Condition 3 --
+Round 1: she could be playing any of the versions because the shape in the third box is different from the 2nd box (fulfilling the requirement for the second version) and is different from the first and second boxes (fulfilling the requirement for the third version). 
+Round 2: same reason
+Round 3: same reason
+Round 4: highly unlikely she was playing the third version because the shapes are not all different. it could be either the first or the second.
+Round 5: same reason.
+Round 6: same reason
+Round 7: same reason
+Round 8: this round doesn't fulfill the requirements for either the second or third version so susan must be playing the first version of the game
+Round 9: same reason 
+Round 10: same reason.
+
+
+=== Subject 26: Information, Condition order: [3 1 2] ===
+-- Condition 1 --
+Round 1: same as before
+Round 2: ditto
+Round 3: ditto again?
+Round 4: 1 in 32 makes 2 boxes seem unlikely. 1 in 81 pretty much rules out 1 box for me.
+Round 5: and by 1 in 32 last time i meant 1 in 16. 1 in 32 this time seems less likely this time than it accidentally did last time. 1 in 243 doesn't stand a chance.
+Round 6: same story
+Round 7: "
+Round 8: "
+Round 9: "
+Round 10: yeah... 1 in over 2100 and 1 in 1028 just aren't seeming like good odds to me.
+-- Condition 2 --
+Round 1: same as before
+Round 2: "
+Round 3: ""
+Round 4: people either are really bad at this game, or often get lucky streaks at the beginning.
+Round 5: same story
+Round 6: ok, he's good at coinflips.
+Round 7: no one makes that many errors with 3 boxes. only one can overtake 2 now (and i don't think that'll happen)
+Round 8: "
+Round 9: "
+Round 10: winning 6 out of 10 coin flips seems more impressive in this game than it would in real life. not enough to convince me that he screwed up the three box game 4 times, however. 2 boxes it is.
+-- Condition 3 --
+Round 1: starting out with a 3 would be lucky for 1 box, a coin flip for 2, and easy for 3. we'll see how this progresses
+Round 2: just over 10 % chance for doing that with 1 box.... it could make a comeback though
+Round 3: now at 3% for 1 box and 12.5% for 2....
+Round 4: lucky streak for 2 boxes? still seems unlikely for 1
+Round 5: i'm not sure how you mess up with 3 open boxes, but if it's 2 this guy is really lucky and if it's one he should give up his day job and go to a casino
+Round 6: another mistake makes me think he's just a really lucky 2 box guesser
+Round 7: it's too difficult to screw up 3 boxes this often, so this guy has luck with coinflips. or.... did. luck going down now.
+Round 8: um really?
+Round 9: too many mistakes in 3 before, but the mistake in 2 has me wondering a bit.
+Round 10: i don't know what happened in 8, but there is under a 1% chance of this having happened with 1 window, so 2 it is.
+
+
+=== Subject 26: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1: hedging bets
+Round 2: same as before
+Round 3: they always start like this though...
+Round 4: this is looking better maybe?
+Round 5: half way there...
+Round 6: so close and yet so far
+Round 7: only 3 rounds to go
+Round 8: still giving 2 a chance, but it looks like 3 will finally win
+Round 9: same story
+Round 10: 100% for 3 makes it seem very likely. Don't think the others stand a chance
+-- Condition 2 --
+Round 1: hedging my bets this time
+Round 2: repetition makes 3 more likely but not astronomically so
+Round 3: same as before
+Round 4: mistakes do happen... but they aren't likely
+Round 5: benefit of the doubt i suppose
+Round 6: and now it's gone
+Round 7: consistent with two different shapes. i don't think 3 boxes stands a chance anymore
+Round 8: same as before
+Round 9: thought about giving him another benefit of the doubt, but those 3 rounds in a row make it unlikely
+Round 10: 100% for the 2 different shapes, obviously so for the one, and only 60% for the 3 different shapes makes 2 boxes seem likely
+-- Condition 3 --
+Round 1: This follows the rules of the 3 open box, making it most likely
+Round 2: same as before
+Round 3: The consistency of the 3 different shapes leads me to prefer the 3 open box game type
+Round 4: and no longer, with this sudden shift to a two box victory (the one box option is still likely, and assuming susan didn't just make a mistake, the 3 box is out of the question)
+Round 5: maybe round 4 was a mistake?
+Round 6: maybe not
+Round 7: probably not
+Round 8: Susan just likes circles and squares doesn't she...
+Round 9: again, possibility of a mistake, but i think the 3 open boxes are still pretty unlikely.
+Round 10: there were enough rounds of 3 different shapes for that to stand a chance, and only one round where the 2 open boxes were wrong, but it's still a simple game and mistakes aren't expected.
+
+
+=== Subject 27: Information, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1:  
+Round 2: he is still getting them correct
+Round 3: it is almost certsin now which game he is playing
+Round 4:  
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9:  
+Round 10:  
+-- Condition 2 --
+Round 1: chance again
+Round 2:  
+Round 3:  
+Round 4: he cant be playing the one wherenall 3 are visible
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9:  
+Round 10:  
+-- Condition 3 --
+Round 1:  basically chance
+Round 2:  
+Round 3: she is still getting them correct, she can probably see all boxes
+Round 4: since she missed one she cant be playing the one where all 3 are visible
+Round 5: v
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9:  
+Round 10:  
+
+
+=== Subject 27: Utility, Condition order: [3 2 1] ===
+-- Condition 1 --
+Round 1:  
+Round 2:  
+Round 3:  
+Round 4:  
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9:  
+Round 10:  
+-- Condition 2 --
+Round 1: chance
+Round 2:  
+Round 3:  
+Round 4:  cant be the one where all are visible
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8:  
+Round 9:  
+Round 10:  
+-- Condition 3 --
+Round 1: i really dont know
+Round 2:  
+Round 3:  
+Round 4: she cant be playing the one where all 3 are visible
+Round 5:  
+Round 6:  
+Round 7:  
+Round 8: its most likely that it is the game where one is visible because a blue shape wpuldnt have been chosen
+Round 9:  
+Round 10:  
+
+
+=== Subject 28: Information, Condition order: [1 2 3] ===
+-- Condition 1 --
+Round 1: Could be any.
+Round 2: Slighly more likely to be 3rd, which requires 3 different shapes.
+Round 3: Even more likely to be 3rd.
+Round 4: More likely to be 3rd.
+Round 5: There's no way, if playing one of the first 2, the player got this many 20 pointers in a row.
+Round 6: Same.
+Round 7: Same.
+Round 8: Same.
+Round 9: Same.
+Round 10: Same.
+-- Condition 2 --
+Round 1: Slightly more likely to be third.
+Round 2: Same.
+Round 3: Even more likely to be third - doubt it's first, only 11% chance of getting 3 in a row if it's first.
+Round 4: Not third actually. Still slightly more likely to be second.
+Round 5: Same.
+Round 6: Same.
+Round 7: Same.
+Round 8: Same. There should be 50% two-of-a-kinds if its second game, 67% if its third, and there is 50%.
+Round 9: Same. More likely second, because percent of duplicates lowered.
+Round 10: Same trend, more likely second.
+-- Condition 3 --
+Round 1: Could be any. Slightly more likely 3rd, because it requires 3 different shapes.
+Round 2: Same.
+Round 3: Same trend. More likely 3rd.
+Round 4: Not 3rd. More likely second than first because only 25% two-of-a-kinds.
+Round 5: Same.
+Round 6: Same.
+Round 7: Same.
+Round 8: 50% two-of-a-kinds seems to support second game, not first. Could still be either.
+Round 9: Same.
+Round 10: Bascially same logic as previous players, only 40% two-of-kinds is unlikely when the odds of a two-of-a-kind are 67% as in first game. More likely second game.
+
+
+=== Subject 28: Utility, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1: It can be any of the games. The third game requires 3 diffrent shapes, so it is more likely that Susan used 3 different shapes in the third game than in other games.
+Round 2: Same.
+Round 3: It becomes more likely that Susan is playing the third game because she continues to have 3 different shapes.
+Round 4: Same.
+Round 5: Same.
+Round 6: Even more likely to be the third game. She continues to have 3 different shapes.
+Round 7: Even more likely. Still not impossible though that she is playing the 1st or 2nd game.
+Round 8: Same.
+Round 9: Same.
+Round 10: Same.
+-- Condition 2 --
+Round 1: Could be any.
+Round 2: Same.
+Round 3: 3 in a row with 3 different shapes. More likely to be 3rd game.
+Round 4: Can't be third game. First and Second have equal chances - the more 2-of-a-kinds, the more likely it is the first game.
+Round 5: same
+Round 6: same
+Round 7: A lot of 2-of-a-kinds. More likely 1st game.
+Round 8: Same
+Round 9: Same
+Round 10: Same.
+-- Condition 3 --
+Round 1: Slightly more likely to be playing the third game, but still very possibly one of the other two - because 3 different shapes.
+Round 2: Same.
+Round 3: More likely to be third because of multiple 3 shapes in a row.
+Round 4: Can't be third. 1st and 2nd have equal probabilities beacuse both have chance of having 2 of the same shapes but can't have 3 of same shapes.
+Round 5: Same.
+Round 6: same
+Round 7: same
+Round 8: A lot of 2-of-a-kinds. More likely to be 1st game unless the player is intentionally choosing the one duplicate shape that allows correct answer.
+Round 9: Same.
+Round 10: Same. Even though the percentage of duplicates is less that .5, people are less likely to choose a duplicate in the second game, so it is likely the first game.
+
+
+=== Subject 29: Utility, Condition order: [1 3 2] ===
+-- Condition 1 --
+Round 1: Since she can choose any shape when all the boxes are closed, it is 1/3 chance she could chosen the circle.                        
+Round 2: If all the boxes were closed, she could have chosen any shape and since she chose a circle before, it is likely that she could have just chosen circle as before.
+Round 3: As she chose trianle which is right all the shapes had to have shown to get this.                                                                                                         
+Round 4: It is very likely that all the shapes are shown as explained before as she got it right.                                                             
+Round 5: As for considering only one shape is shown she doesn't follow a pattern of choosing this trianlge so it is unlikely that only one shape was shown.
+Round 6: Now since she choose a square, it is somewhat likely for none of the shape was shown and only one shape was shown because she chose square after a triangle as a pattern 
+Round 7: following no pattern it is almost unlikely that none of the frame is open
+Round 8: It is very likely for choosing the circle following her pattern as before
+Round 9: Same as before
+Round 10: Since she chose a triangle which was same as before she could have just clicked on it again which is very likely for all three cases. 
+-- Condition 2 --
+Round 1: Very likely to choose the right shape when all the boxes are open and 1/2 chance for one box is open and 1/3 chance of all boxes being closed.
+Round 2: It is very likely to choose a circle for all cases just clicking the same shape as before
+Round 3: If it was the case for one box open and none being open it would be more likely to choose a circle as before but she chose a squre which is unlikely
+Round 4: Since it was wrong, it can't be all boxes being open and somewhat ikely for him to choose when none or one box is open as he picked the square before and just clicked on it
+Round 5: She have chosen two circles and two squres and this time started to choose a triangle so perhaps she is following a pattern
+Round 6: It is for sure that all the boxes were closed since she got it wrong, and very likely for the other two as explained before she is following a pattern
+Round 7: Same reasoning as before
+Round 8: If none of the boxes were open looking at her record she should have picked the square so it is very unlikely
+Round 9: Since she got it right and following the previous pattern, it is very likely for all three cases
+Round 10: Same as before
+-- Condition 3 --
+Round 1: Since he got it right, it is very likely for all shapes being shown and somewhat for showing one shape(50/50 chance) and 1/3 chance for all shapes being covered.
+Round 2: For all the shapes were covered he could have chosen anything and he chose circle which is closer to the submit button so he could have just clicked on it.
+Round 3: Now considering all shapes are closed he could click on any shape 1/3 chance but the circle could be conveniant but chose the trianle so unlikely
+Round 4: Since he didn't choose a triangle it is very unlikely that all the shapes were shown.                                                                                                                       
+Round 5: he got it right so it is very likeable for him to choose the square.                          
+Round 6: He got it wrong, very unlikeable that all the shapes were shown.                                                              
+Round 7: If none or only one shape was to be shown it is almost likeable for both cases since the circle is very close to the submit button. easy to click on it
+Round 8: For this case it only has to be none of the shape to be chosen because if the one shape was to be shown it had to be a triangle or a circle not the square. 
+Round 9: Since he got it right all the shapes should be shown. If the only shape is shown it is somewhat likely to choose the square as he can choose a trianlge but he has a pattern of just choosing what he have chose previously. Same patter for choosing a square for all the boxes being closed
+Round 10: Trianlge being shown it could have been circle being convinient but he tended to choose a square when the middle one was open to be a trianlge.
+
+
