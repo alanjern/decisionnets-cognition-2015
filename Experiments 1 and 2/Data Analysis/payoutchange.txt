@@ -1,0 +1,1050 @@
+=== Subject 100: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+Choosing this fruit gives her $1000, since this is a copy machine, and will give her the most amount of money possible.
+Saw: --
+Predicted: TRI
+Choosing this will give Mary $1000, the most possible.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: TRI
+Nick will choose a pineapple, since this will give him $2 as opposed to the $1 he would get by choosing an apple.
+Saw: TRI
+Predicted: SQR
+Nick will choose a pineapple, since this gives him the $1000 maximum.
+
+
+
+=== Subject 101: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+it is a copy machine so if she picks the pumpkin she will get two pumpkins and therefore $1000
+Saw: --
+Predicted: TRI
+she will get two pumpkins and $1000
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: SQR
+he has a choice of either getting $2 or $1 so he should choose two pineapples and get $2
+Saw: TRI
+Predicted: SQR
+he has the choice of getting $5 or $1000, so he should choose having the pineapple and getting $1000
+
+
+
+=== Subject 102: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+The only options Mary has are eggplant/eggplant worth $5 and pepper/pepper worth $1000 so she will choose the pepper.
+Saw: --
+Predicted: TRI
+Mary will choose the pepper because nothing has changed--still a copy machine, pepper/pepper still worth more than eggplant/eggplant.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: SQR
+Of the two possible options, pineapple/pineapple is worth more than pineapple/tomato, so Nick will choose the pineapple.
+Saw: TRI
+Predicted: SQR
+Of the two options, tomato/pineapple is worth more than tomato/tomato so Nick will choose pineapple.
+
+
+
+=== Subject 103: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+this combination yeilds the largest reward.
+Saw: --
+Predicted: TRI
+this yeilds the largest reward.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: SQR
+this yeilds the largest reward.
+Saw: TRI
+Predicted: SQR
+this yeilds the largest reward.
+
+
+
+=== Subject 104: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+Double peppers gives you a higher chip value than double eggplants so I assume she will try to get the highest value chip.
+Saw: --
+Predicted: TRI
+Double pepper gives a higher chip value than double eggplant.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+Double Pineapple gives a higer value than pineapple apple.
+Saw: TRI
+Predicted: TRI
+Double apple gives a higher chip value than apple pinapple.
+
+
+
+=== Subject 105: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+This combination yields the highest amount of money.
+Saw: --
+Predicted: TRI
+This combination yields the highest amount of money.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+This combination yields the highest amount of money.
+Saw: TRI
+Predicted: TRI
+This combination yields the highest amount of money.
+
+
+
+=== Subject 106: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+This machine is a copy machine so Mary would most likely choose the pepper because copying that would give her a higher reward than copying the eggplant. If she didn't know what kind of machine it was she would still probably pick the pepper because based on her last games she always tried to go for the $1000 reward.
+Saw: --
+Predicted: TRI
+Mary never changed her strategy in the last round she played, so I think she would go with the pepper again.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+Watching Nick play the last round, he always tried to maximize his profit. I think he will choose the pineapple because it will offer him the $1000 reward.
+Saw: TRI
+Predicted: TRI
+Given a randomly generated first image, Nick chooses whatever image will provide him the higher reward. Therefore, I think he will choose the tomato because that will offer him $5 instead of choosing the pineapple and only receiving $1.
+
+
+
+=== Subject 107: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+It's worth more.
+Saw: --
+Predicted: TRI
+It's worth more.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+It's worth more.
+Saw: TRI
+Predicted: TRI
+It's worth more.
+
+
+
+=== Subject 66: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1000        5        1        2
+Saw: --
+Predicted: SQR
+It duplicates whatever you do so choose amongst the higher duplicates.
+Saw: --
+Predicted: SQR
+Same as before.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1        2        1000        5
+Saw: SQR
+Predicted: TRI
+Pineapple apple has a larger value than pinaeapple pineapple
+Saw: TRI
+Predicted: SQR
+apple pineapple is $1000 which is the largest amount
+
+
+
+=== Subject 67: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1000        5        1        2
+Saw: --
+Predicted: SQR
+Two eggplants is the highest chip value with a copy machine.
+Saw: --
+Predicted: SQR
+Eggplant is still the highest. 
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1        2        1000        5
+Saw: SQR
+Predicted: TRI
+Red chip value is higher than blue chip value. 
+Saw: TRI
+Predicted: SQR
+Grey chip is higher than light blue.
+
+
+
+=== Subject 68: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+Double pumpkins give out $2 whereas the plums give out $1. She cannot achieve the $5 or $1000 because she has a copy machine.
+Saw: --
+Predicted: TRI
+Same as before, double pumpkins are greater than double plums
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+This yields the highest reward
+Saw: TRI
+Predicted: TRI
+This yields the highest possible reward
+
+
+
+=== Subject 69: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       2        1        1000        5
+Saw: --
+Predicted: TRI
+Two peppers are worht more than two eggplants.
+Saw: --
+Predicted: TRI
+Two peppers are worht more than two eggplants
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       1000        5        2        1
+Saw: TRI
+Predicted: SQR
+apple pineapple is worth more
+Saw: SQR
+Predicted: SQR
+two pineapples are worth te most
+
+
+
+=== Subject 70: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       2        1        1000        5
+Saw: --
+Predicted: TRI
+On a copy machine double peppers yields the highest monetary value
+Saw: --
+Predicted: TRI
+On a copy machine double peppers yields the greatest monetary value
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       1000        5        2        1
+Saw: TRI
+Predicted: SQR
+Double apples are only woth $1 where as pinapple in the second space wins Nick $2
+Saw: SQR
+Predicted: SQR
+Double pinapples are woth $1000
+
+
+
+=== Subject 71: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        1000        2        5
+Final payouts       1000        1        5        2
+Saw: TRI
+Predicted: SQR
+Because it would yield a higher winning
+Saw: SQR
+Predicted: SQR
+It would yield a higher winning
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        1        5
+Final payouts       5        1        1000        2
+Saw: --
+Predicted: SQR
+Because it yields higher winnings
+Saw: --
+Predicted: SQR
+Because it yields higher winnings
+
+
+
+=== Subject 72: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+2 peppers is higher than 2 eggplants
+Saw: --
+Predicted: TRI
+2 peppers> 2 eggplants
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+2 pineapples is 1000
+Saw: TRI
+Predicted: TRI
+2 apples is the highest possible
+
+
+
+=== Subject 73: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        1        2        5
+Final payouts       1        1000        5        2
+Saw: SQR
+Predicted: TRI
+This will give her $1000 as opposed to just $1.
+Saw: TRI
+Predicted: SQR
+This will give Mary $5 instead of $2.
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        5        1
+Final payouts       1        5        2        1000
+Saw: --
+Predicted: TRI
+This will result in $1000.
+Saw: --
+Predicted: TRI
+This will result in $1000.
+
+
+
+=== Subject 74: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: TRI
+Predicted: SQR
+reward is max amount
+Saw: SQR
+Predicted: SQR
+reward is max possible amount of the sets that begin with an eggplant
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       2        1        1000        5
+Saw: --
+Predicted: TRI
+max reward with a copy machine
+Saw: --
+Predicted: TRI
+max reward with copy machine
+
+
+
+=== Subject 75: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: TRI
+Predicted: SQR
+she wins $1000 with this choice
+Saw: SQR
+Predicted: SQR
+she wins 1 more dollar with this choice
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       2        1        1000        5
+Saw: --
+Predicted: TRI
+he wins 3 more dollars this way
+Saw: --
+Predicted: TRI
+he wins 3 more dollars this way
+
+
+
+=== Subject 76: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        1000        5
+Final payouts       5        1000        2        1
+Saw: --
+Predicted: SQR
+Since this is a copy machine, she will pick the eggplant and get $5 vs. picking the pepper to get $1
+Saw: --
+Predicted: SQR
+Again, since this is a copy machine, the highest value she can win is $5 if she picks the eggplant
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1        2        1000        5
+Saw: TRI
+Predicted: SQR
+Nick will choose the pineapple to win $1000
+Saw: SQR
+Predicted: TRI
+Nick will choose the apple(?) because the best he can win starting with a pineapple is $2
+
+
+
+=== Subject 77: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        1000        5
+Final payouts       5        1000        2        1
+Saw: --
+Predicted: SQR
+She cannot win the $1000 in this game, because it is a copy machine. Her best bet is to win $5 by chosing the eggplant. 
+Saw: --
+Predicted: SQR
+Same as before.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1        2        1000        5
+Saw: TRI
+Predicted: SQR
+This would allow him to win the most ammount of money.
+Saw: SQR
+Predicted: TRI
+This will give him the most ammount of money based on the given first choice of a pineapple.
+
+
+
+=== Subject 78: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1000        5        1        2
+Saw: --
+Predicted: SQR
+The highest reward requires an eggplant to be selected.
+Saw: --
+Predicted: SQR
+The highest reward requires an eggplant to be selected.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1        2        1000        5
+Saw: SQR
+Predicted: TRI
+Selecting the apple gives him the highest available reward, given that a pineapple is the first image.
+Saw: TRI
+Predicted: SQR
+Selecting the pineapple gives him the highest possible reward.
+
+
+
+=== Subject 79: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1        1000        2
+Final payouts       1        5        2        1000
+Saw: TRI
+Predicted: TRI
+She would choose the combination that would give her the most money, which in this case would be two yellow peppers,
+Saw: SQR
+Predicted: TRI
+The combination of the aubergine and the yellow pepper and thee combination of two aubergines is the only choice Mary has. She would go for the combination of The aubergine and the yellowe pepper because it would give her the most money.
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        5        1000        1
+Final payouts       1        1000        5        2
+Saw: --
+Predicted: SQR
+Nick will initially aim to get a combination of apple and pineapple in order to win the highest sum of money
+Saw: --
+Predicted: TRI
+I think Nick will choose the apple in order to gain the highest amount of money. (on the previous slide I meant to say apple as well)
+
+
+
+=== Subject 80: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+Two peppers will give you highest reward.
+Saw: --
+Predicted: TRI
+Same reason as before.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: SQR
+$2 greater than $1
+Saw: TRI
+Predicted: SQR
+Higehst reward possible.
+
+
+
+=== Subject 81: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+Since it's a copy machine, she won't be able to pick the combination that would yield the highest chip value. So she would have to pick between a pair of purple fruit and a pair of yellow pepper. A pair of yellow pepper gives $1 more than the other pair, so she would choose yellow pepper.
+Saw: --
+Predicted: TRI
+She would still pick pepper because a pair of yellow pepper gives her one more dollar than a pair of purple fruit.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+He would pick pineapple because a pair of pineapple would give him the highest chip value. 
+Saw: TRI
+Predicted: TRI
+He would choose apple because a pair of apple gives $4 more than a pair of apple and pineapple.
+
+
+
+=== Subject 82: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+Mary will choose orange pepper because it will give her the greatest reward when compared to the purple food.
+Saw: --
+Predicted: TRI
+Mary will choose the orange pepper because it will give her the greatest reward.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: TRI
+This combination will give Nick the greatest reward.
+Saw: TRI
+Predicted: SQR
+same explanation as previous.
+
+
+
+=== Subject 83: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+Choosing the grape will get her $1, but choosing the pumpkin will get her $2.
+Saw: --
+Predicted: TRI
+The second picture will get her $2 as opposed to $1 for the first picture.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+The first picture will get him $1000, the second will get him only $2.
+Saw: TRI
+Predicted: TRI
+The first picture will get him $1, but the second picture will get him $5.
+
+
+
+=== Subject 84: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        1000        2        5
+Final payouts       1000        1        5        2
+Saw: TRI
+Predicted: SQR
+This picture woud allow her to obtain the highest possible amount of money, which is the goal.  
+Saw: SQR
+Predicted: SQR
+This will allow Marry to obtain the greatest amount in chip value.  
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        1        5
+Final payouts       5        1        1000        2
+Saw: --
+Predicted: SQR
+Nick has been made aware of the change in outcome key values.  While it is possible that he will choose the apple ince he has been choosing the apple consistently, I think that he'll choose the pineapple this round, since it will give him the greatest chip value.  
+Saw: --
+Predicted: SQR
+This will gie Nick the greatest chip value. 
+
+
+
+=== Subject 85: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+Choosing bell peppers will give Mary the maximum chip value.
+Saw: --
+Predicted: TRI
+Choosing bell peppers will give Mary the max chip value
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: SQR
+Choosing pineapple will give him one more dollar than he would if he chose apple
+Saw: TRI
+Predicted: SQR
+He will choose pineapple if he wants the greatest chip value
+
+
+
+=== Subject 86: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+The copy machine makes the choice easy -- choose the picture to obtain the highest amount possible. In this case, choosing the squash will obtain the 1000. As it is a copy machine, any picture you choose will be also in the second box as well. 
+Saw: --
+Predicted: TRI
+Mary will choose the squash again as it corresponds to the 1000 chip value. The squash makes sense as the machine is of a copy type
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: SQR
+The choice is made based upon the chip value -- as the apple corresponds to a higher dollar amount--logic dictates choosing that (as both the pictures are 50% as likely)
+Saw: TRI
+Predicted: SQR
+The choice is made based upon the chip value -- as the pineapple corresponds to a higher dollar amount--logic dictates choosing that (as both the pictures are 50% as likely)
+
+
+
+=== Subject 87: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        1000        2        5
+Final payouts       1000        1        5        2
+Saw: TRI
+Predicted: SQR
+Mary always chose the picture that gave the most money previously, and in this case the plum will give the most money
+Saw: SQR
+Predicted: SQR
+Plum gives more money than the pumpkin will
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        1        5
+Final payouts       5        1        1000        2
+Saw: --
+Predicted: SQR
+Nick always chose the picture that won the most money previously. In this case the pineapple will give the most money, so he will choose it.
+Saw: --
+Predicted: SQR
+Same reasoning
+
+
+
+=== Subject 88: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        2        1000        1
+Final payouts       1        1000        2        5
+Saw: --
+Predicted: TRI
+Two peppers yield a higher payoff of $5 than two eggplants at $1.
+Saw: --
+Predicted: TRI
+Same reasoning.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: TRI
+Predicted: SQR
+Choosing a pineapple yields a higher payoff of $1000 than the apple does with $5.
+Saw: SQR
+Predicted: SQR
+A pineapple yields a higher payoff of $2 than the apple does of $1.
+
+
+
+=== Subject 89: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        2        1000        1
+Final payouts       1        1000        2        5
+Saw: --
+Predicted: TRI
+Mary will choose the pepper because the combination of 2 peppers is a greater value than 2 eggplants.
+Saw: --
+Predicted: TRI
+2 pumpkins has a greater value
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: TRI
+Predicted: SQR
+Nick would choose the pineapple because it will give him a value of $1000
+Saw: SQR
+Predicted: SQR
+Nick will choose the pineapple because it will give him a value of $2 rather than $1
+
+
+
+=== Subject 90: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+Since it's a copy machine, a combination of two bell peppers will give her the most amount of of moeny possible ($2) so that would be the most likely choice. 
+Saw: --
+Predicted: TRI
+Since two bell peppers will give her the most amount of money ($2), that would be the most reasonable choice to make. 
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+This is the choice that will guarentee him $1000.
+Saw: TRI
+Predicted: TRI
+This is the choice that will give him the most amount of money.
+
+
+
+=== Subject 91: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: SQR
+the chances of either are 50/50?
+Saw: --
+Predicted: TRI
+50/50
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: TRI
+just picked one
+Saw: TRI
+Predicted: TRI
+just picked one
+
+
+
+=== Subject 92: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        1        2        5
+Final payouts       1        1000        5        2
+Saw: SQR
+Predicted: TRI
+If given an eggplant first, a pepper second gives more money than another eggplant second.
+Saw: TRI
+Predicted: SQR
+Given a pepper first, an eggplant second gives more money than a pepper second.
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        5        1
+Final payouts       1        5        2        1000
+Saw: --
+Predicted: TRI
+Two pineapples is only $1, but two apples (?) is $1000.
+Saw: --
+Predicted: TRI
+Two apples gives the most amount of money.
+
+
+
+=== Subject 93: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+A double bell pepper has higher reward than double eggplant this round
+Saw: --
+Predicted: TRI
+higher reward for double bell pepper than double eggplant (her only two options)
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+highest reward with this choice
+Saw: TRI
+Predicted: TRI
+highest possible reward due to diminshed choice of apple in first box
+
+
+
+=== Subject 94: Condition order: [1 2] ===
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        1        2        5
+Final payouts       1        1000        5        2
+Saw: SQR
+Predicted: TRI
+Highest Chip value!
+Saw: TRI
+Predicted: SQR
+$5>$2
+
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        5        1
+Final payouts       1        5        2        1000
+Saw: --
+Predicted: TRI
+to get the highest chip value
+Saw: --
+Predicted: TRI
+$1000!
+
+
+
+=== Subject 95: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1        5        1000        2
+Saw: --
+Predicted: TRI
+This is now the highest dollar reward possible
+Saw: --
+Predicted: TRI
+This is the highest dollar reward possible
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1000        5        1
+Final payouts       1000        2        1        5
+Saw: SQR
+Predicted: SQR
+This is the greatest dollar reward.
+Saw: TRI
+Predicted: TRI
+This is the greatest dollar reward
+
+
+
+=== Subject 96: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1000        5        1        2
+Saw: --
+Predicted: SQR
+Eggplant-eggplant has the highest value, and Mary has the option of picking it since it is a Copy Machine.
+Saw: --
+Predicted: SQR
+Eggplant-eggplant has the highest value, and Mary has the option of picking it by choosing eggplant.
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1        2        1000        5
+Saw: SQR
+Predicted: TRI
+Pineapple-Apple has a higher value than pineapple-pineapple.
+Saw: TRI
+Predicted: SQR
+Apple-pineapple has a higher value than apple-apple.
+
+
+
+=== Subject 97: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1000        5        1        2
+Saw: --
+Predicted: SQR
+the copy of this choice will yeild 1000, which is the highest chip value
+Saw: --
+Predicted: SQR
+This is still the highest chip value from a copy machine scenario
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    2        1        5        1000
+Final payouts       1        2        1000        5
+Saw: SQR
+Predicted: TRI
+this combination from the random machine will give the highest chips
+Saw: TRI
+Predicted: SQR
+This combination gives 1000, which is the highest possible chip yield
+
+
+
+=== Subject 98: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       2        1        1000        5
+Saw: --
+Predicted: TRI
+It is worth more.
+Saw: --
+Predicted: TRI
+It is worth more
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    5        1000        1        2
+Final payouts       1000        5        2        1
+Saw: TRI
+Predicted: SQR
+Pinapple always gives more money
+Saw: SQR
+Predicted: SQR
+Pinapple always gives more money
+
+
+
+=== Subject 99: Condition order: [2 1] ===
+Copy Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1000        2        1        5
+Final payouts       5        1        2        1000
+Saw: --
+Predicted: TRI
+Because the combination of two bellpeppers will give Mary the most money and because it is a Copy Machine, Mary will choose the bellpepper. 
+Saw: --
+Predicted: TRI
+Same reasoning as before
+
+Random Machine
+                    SQR SQR   SQR TRI   TRI SQR   TRI TRI
+Training payouts    1        2        5        1000
+Final payouts       2        1        1000        5
+Saw: SQR
+Predicted: SQR
+He will choose the pineapple because it gives him the most value based on his options. 
+Saw: TRI
+Predicted: SQR
+He will choose the pineapple because it gives him the most value based on his options. 
+
+
+

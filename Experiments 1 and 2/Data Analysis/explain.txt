@@ -1,0 +1,462 @@
+=== Subject 100: Condition order: [1 2 3] ===
+Ratings: [1 6 4] 
+Makes sense? [5;1] 
+Makes sense? [1;5] 
+Makes sense? [4;4] 
+Condition 1: If the machine were a copy machine, it would make sense for Alice to choose the pumpkin, since that would give her the $1000 chip. I am unsure as to whether choosing a grape or pumpkin would give her more money if this machine were random, since I don't know the monetary values gained from either combination. I concluded this was a random machine since there would be no reason not to choose a pumpkin on a copy machine.
+
+Condition 2: If this were a random machine and Bob was given the orange fruit, it would then make sense for him to choose the other fruit because that would give him $1000. Since he didn't choose this, it led me to believe this was in fact a copy machine and not a random machine. I am unsure about the other monetary outcomes, so I cannot comment if his choice was the most logical, just that I know this isn't a random machine.
+
+Condition 3: I am unsure about how the color coded chips refer to monetary values, so I cannot accurately deduce what kind of machine this was or if her choice made sense.
+
+=== Subject 101: Condition order: [1 3 2] ===
+Ratings: [7 1 4] 
+Makes sense? [4;7] 
+Makes sense? [3;7] 
+Makes sense? [4;7] 
+Condition 1: random can be one or the other while copy will be the same. also, if yo uwin for it being copied it is probably a copy machine.
+
+Condition 2: it would make snese if it was a copy machine because both of the images are the same.  and i think it is a random machine becuase if you have different images you get $1000
+
+Condition 3: it would make sense if ti was a copy machine because they are both the same but it is one or the other for the random machine. I do not know any of the chip values so i cannot make a judgement.
+
+=== Subject 102: Condition order: [3 2 1] ===
+Ratings: [1 4 4] 
+Makes sense? [4;1] 
+Makes sense? [7;7] 
+Makes sense? [7;7] 
+Condition 1: If this is a random machine, then watermelon/watermelon is of higher value than watermelon/blueberry.                                                                                                                   If this is a copy machine, then Cindy made the wrong choice since she could have chosen blueberry/blueberry.
+
+Condition 2: If this is a random machine, squash/squash is worth more than squash/turnip.                                                                                                                                                                                    If this is a copy machine, squash/squash is worth more than turnip/turnip.                                                                                                                                                                                      Still, I cannot determine which machine this is more likely to be since I don't know what color token corresponds to what value.
+
+Condition 3: If this is a copy machine, then the grape/grape solution is worth more money than the pumpkin/pumpkin solution.                                                                                                                 If this is a random machine, then the grape/grape solution is worth more money than the grape/pumpkin solution.                                                                                                                 However, since the four color token values are unknown, I don't see how I can make any more inference than this.
+
+=== Subject 103: Condition order: [3 1 2] ===
+Ratings: [1 7 4] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [4;4] 
+Condition 1: if it was a copy machin, then Bob would have chosen two onions instead, because that yeilds the highest reward.
+
+Condition 2: if it was a random machine, the Cindy would have been able to get $1000.  she picked a duplicate which implies that it was a copy machin.
+
+Condition 3: because i dont know what value each combo has asociated with it, it impossible to tell what typ of machin it is.
+
+=== Subject 104: Condition order: [2 3 1] ===
+Ratings: [2 6 5] 
+Makes sense? [5;4] 
+Makes sense? [4;7] 
+Makes sense? [4;7] 
+Condition 1: If the machine was a copy machine, then it would not make sense for her to choose a watermelon when the blueberrys are going to give you $1000. Therefore it makes more sense for her to choose a watermelon if its a random machine.
+
+Condition 2: There are two of the same picture copied into the two boxes and since the player picks the value of the second box in  a random machine it would not make sense for them to pick grapes over pumpkin.
+
+Condition 3: Since we don't know the chip valuse, we cannot see if choosing a second squash would make sense if you were playing with a random machine. So therefore it makes slightly more sense for it to be a copy machine because there are two of the same picture. 
+
+=== Subject 105: Condition order: [2 1 3] ===
+Ratings: [2 6 5] 
+Makes sense? [4;1] 
+Makes sense? [1;7] 
+Makes sense? [4;6] 
+Condition 1: The machine was most likely random.  If it was a copy machine, it would have made the most sense for bob to choose the two purple fruits to receive the sure denomination of $1000.
+
+Condition 2: The machine was most likely a copy machine.  If it was a random machine the grapes would have been presented first, so she would have been able to choose the pumpkin to get the chip of the highest worth.  She could have also picked the pumpkin considering both choices, (Pumpkin Pumpkin) and (Grape Grape) were a mystery.
+
+Condition 3: It his hard to say if this machine was a copy machine or a random machine, but the odds are probably favored toward this being a copy machine considering Cindy's choice contained two of the same fruits.
+
+=== Subject 106: Condition order: [1 2 3] ===
+Ratings: [2 7 4] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [7;7] 
+Condition 1: Alice's choice would make sense if the machine on this ship was a Random Machine. She knows what all of the chip values are, but we only know the $1000 is two pumpkins. Since the highest value the machines give out is $1000, if it were a Copy Machine she would have chosen the pumpkin. If she were randomly assigned the grapes then she probably picked grapes again to maximize her profit of the remaining three choices. Her choice would not make sense if the machine were a Copy Machine, because she did not choose to receive the $1000 reward, the highest offered. Therefore, I think the machine on this ship is a Random Machine.
+
+Condition 2: Bob's choice would not make sense if this was a Random Machine because given the first pear, he would have chosen the onion (?) as his pick in order to win the $1000 chip. His choice definitely makes sense for a Copy Machine. He only has two options (either both pears or both onions), and the pears probably offers the higher value chip. Therefore, this machine is definitely a Copy Machine.
+
+Condition 3: We do not know the values of the chips, therefore we cannot make any assumptions about whether or not Cindy made a sensible decision. She was given the watermelon, but did she choose it as her pick as well to maximize profit or did a copy of the watermelon offer her the highest reward? We cannot make an educated guess on which type of machine this is.
+
+=== Subject 107: Condition order: [1 3 2] ===
+Ratings: [1 7 4] 
+Makes sense? [6;1] 
+Makes sense? [1;6] 
+Makes sense? [6;6] 
+Condition 1: Since we know double pumpkin is max(1000), if it were copy she would've picked pumpkin, since it doesn't make sense for her to choose grape grape which has to be lower. So it's definitely a random machine. So what probably happened was the random machine selected grapes, and grape grape was higher than grape orange.
+
+Condition 2: If it were random and we got watermelon first, logical choice would be to take blueberry next to get 1000. So it doesn't make sense if it were a random machine, so it must be copy machine, where double watermelon has more value than double blueberry.
+
+Condition 3: If random machine gave pear, and pear pear was highest then it makes sense. If it were a copy machine, and pear pear was highest, it would also make sense. Since both made sense we can't make a judgement on what type of machine it was.
+
+=== Subject 66: Condition order: [3 2 1] ===
+Ratings: [1 7 4] 
+Makes sense? [4;1] 
+Makes sense? [1;4] 
+Makes sense? [7;7] 
+Condition 1: If it was a copy machine, Cindy would play a blueberry to get the $1000 chip.                                                                         Like previously, not knowing the actual chip values in the other case makes it indeterminable as to whether her choice makes sense for a copy machine.
+
+Condition 2: If it was a random machine, Bob would not put another squash because the alternative would get him an $1000 chip.If it was a copy machine, without knowing the chip values, this choice either make sense or not.                 
+
+Condition 3: If it's a copy machine, Alice would only play the picture that, when copied, yields the highest chip value.                            It it's a random machine, then knowing the left picture would allow Alice to pick the best picture to pair up with the initial picture.
+
+=== Subject 67: Condition order: [3 1 2] ===
+Ratings: [1 7 4] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [4;4] 
+Condition 1: If it were a copy machine, Bob would have selected the other picture with no hesitation. A random machine heightens the probability that it's a good choice.
+
+Condition 2: A random machine would make it possible for the highest value, so the only logistical alternative is a Copy Machine. 
+
+Condition 3: None of the chip values are given, so it is impossible to determine whether or not it was a smart decision.
+
+=== Subject 68: Condition order: [2 3 1] ===
+Ratings: [1 7 4] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [6;6] 
+Condition 1: If this ship had a copy machine, Cindy would've gone for the double blue berries, for the 1000 reward. Instead she chose double watermelons. This indicates that the machine was definitely random.
+
+Condition 2: If it was a random machine and the machine chose the first picture to be grapes, it would make more sense for Alice to choose a pumpkin in order to obtain the 1000 reward. However, since she chooses grapes, it makes more sense that this si a copy machine.
+
+Condition 3: Since you don't know what the chip values are, you can only assume that if it was either machine, Bob would be trying to maximize his profit, therefore his choice should make sense for both scenarios. However, his choice itself still does not give us any clue as to whether it was a random machine or copy machine,
+
+=== Subject 69: Condition order: [2 1 3] ===
+Ratings: [2 6 4] 
+Makes sense? [6;1] 
+Makes sense? [2;5] 
+Makes sense? [4;4] 
+Condition 1: If it were a copy machine he could get the $1000 chip by selecting the onion.
+
+Condition 2: If it were a random machine, she could get the $1000 chip by selecting the pumpkin.
+
+Condition 3: No way to know if we don't know the values.
+
+=== Subject 70: Condition order: [1 2 3] ===
+Ratings: [1 7 4] 
+Makes sense? [6;1] 
+Makes sense? [1;7] 
+Makes sense? [4;4] 
+Condition 1: If it was a copy machine she would have picked the pumpkins as double pumpkins are worth $1000
+
+Condition 2: If it was a random machine he would have picked the red onion as his second image to get the $1000 chip
+
+Condition 3: There isn't enough information to determine which type of machine this is or why she picked which image
+
+=== Subject 71: Condition order: [1 3 2] ===
+Ratings: [5 7 6] 
+Makes sense? [4;7] 
+Makes sense? [1;4] 
+Makes sense? [4;4] 
+Condition 1: The two things are copies of each other so it is more likely to be a copy machine than a random machine.
+
+Condition 2: If it was a random machine, Cindy would've chosen the blueberry item therefore making her winnings at 1000 instead of take it by chance.
+
+Condition 3: The two items match which means it is probably more likely a copy machine than a random machine
+
+=== Subject 72: Condition order: [3 2 1] ===
+Ratings: [4 6 5] 
+Makes sense? [4;2] 
+Makes sense? [2;1] 
+Makes sense? [3;7] 
+Condition 1: If copy, she should have clicked the blueberries.
+
+Condition 2: Copy machine wouldn't make sense for this one because he wouldn' tget the full anyways.Random idoesn't make sense because whu woild he choose both of the same?               
+
+Condition 3: There are two of the same chips up
+
+=== Subject 73: Condition order: [3 1 2] ===
+Ratings: [1 7 5] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [4;5] 
+Condition 1: This can't be a copy machine because if it was, there would be no reason for Bob to pick the image that he did if he could easily pick the other image and receive $1000.
+
+Condition 2: This must be a copy machine because if it was a random machine that started with the watermelon picture, then Cindy would have picked the blueberries in order to obtain the $1000.  Because that did not happen, it must have been a copy machine and two watermelon's was worth more than two blueberries.
+
+Condition 3: Because it was a copy of the picture, I think a copy machine is more likely, but you can't really tell.
+
+=== Subject 74: Condition order: [2 3 1] ===
+Ratings: [2 6 4] 
+Makes sense? [2;1] 
+Makes sense? [1;6] 
+Makes sense? [3;6] 
+Condition 1: It is possible that it was a random machine because if it was a copy machine then she could've easily have gotten $1000 reward, which she didn't.
+
+Condition 2: The set that is worth $1000 is of two different images. It seems that she is not able to produce two different images so that means that she is most likely dealing with a copy machine. If she knew what all the chips were worth and this was a random machine then she is a not a very good player.
+
+Condition 3: Since I don't know any of the rewards pertaining to each set I'm not quite sure of what type of machine this is.
+
+=== Subject 75: Condition order: [2 1 3] ===
+Ratings: [4 7 4] 
+Makes sense? [5;5] 
+Makes sense? [1;7] 
+Makes sense? [5;5] 
+Condition 1: whether the machine was a copy machine or a random machines, Bob's choice makes no sense. He could easily have chosen the purpe fruit for either machines and won $1000.
+
+Condition 2: If it as a random machine, the player would have chosen a pumpkin so they can win $1000. The player chose grapes, knowing that there is no way she can win $1000. The pink chip is probably worth more than the purple chip.
+
+Condition 3: this machine can either be a copy machine or a random machine. from previous games, two matching fruits usually yielded a prize of $1000. Cindy could have chosen a watermelon to get a copy or gotten a random watermelon and chose a watermelon to win $1000.
+
+=== Subject 76: Condition order: [1 2 3] ===
+Ratings: [6 4 4] 
+Makes sense? [2;6] 
+Makes sense? [3;3] 
+Makes sense? [4;4] 
+Condition 1: i would guess that Alice's machine is a copy machine because the image is repeated, and based on the other random machines I saw, it seemed like when the two different images are displayed the output is higher.
+
+Condition 2: I am not sure which type of machine he used, but I would guess a copy machine since the $1000 chip was only available with two different images (which he could not achieve with the copy machine)
+
+Condition 3: Since I don't know where the $1000 combination is, I can't tell which type of machine Cindy might be using.
+
+=== Subject 77: Condition order: [1 3 2] ===
+Ratings: [2 6 4] 
+Makes sense? [5;1] 
+Makes sense? [1;5] 
+Makes sense? [4;4] 
+Condition 1: If it was a copy machine, she made the wrong choice. If it was a random machine, she may have chosen an object that provided her with more money than if she had chosen a pumpkin. She is most likely playing a random machine. 
+
+Condition 2: She chose something that would make sense to win her a little bit of money. If she was on a random machine, she chose wrong. If she was on a copy machine she could have chosen something that would yeild her more money than another option (like chosing both blueberries).
+
+Condition 3: Based off of the information provided, there is no way to know what kind of machine Bob was playing on and if his choices were justified. 
+
+=== Subject 78: Condition order: [3 2 1] ===
+Ratings: [2 6 4] 
+Makes sense? [5;2] 
+Makes sense? [1;7] 
+Makes sense? [7;7] 
+Condition 1: If she had a copy machine, it seems that she would have chosen to copy the image of the blueberries and received the highest reward.  If it was a random machine and the first image was already locked in as a watermelon, she could have filled in the second watermelon to get the second-highest reward since the $1000 reward was unattainable.
+
+Condition 2: If it was a random machine, he would have been rewarded more for selecting the onion as the second picture.  Since that combination isn't a viable option with the copy machine, it seems like maybe he made this selection to get the second highest reward value.  
+
+Condition 3: The choice could be Random or Copy because it is a duplicated image that could be the outcome for either machine.  I don't know any of the outcomes, so it seems that there is an even chance that her selection was the result of either machine.
+
+=== Subject 79: Condition order: [3 1 2] ===
+Ratings: [4 7 4] 
+Makes sense? [4;4] 
+Makes sense? [1;4] 
+Makes sense? [2;7] 
+Condition 1: Since the red onions are the only combination that I know the value of, I am unable to relate it to Bob's experience.
+
+Condition 2: This is a copy machiene because the two pictures are the same. This is not a random machiene, because Cindy would have chosen the blueberries for 1000 dollars if it had been. 
+
+Condition 3: Alice's choice would make sense if this was a copy machiene because she knows how to make the highest possible outcome based on her knowledge of the chips. I haven't the slightest idea of what kind of machine this is though because I cannot jusdge by her choices (or lack thereof) since i do not know the values of the chips
+
+=== Subject 80: Condition order: [2 3 1] ===
+Ratings: [1 7 4] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [4;4] 
+Condition 1: If it was a copy machine, then choose the $1000 dollar reward. No reason to pick anything less.
+
+Condition 2: If random, then the combination of grapes and pumpkins will yield the greatest reward. Obviously, that should be the logical choice Alice should make if it was random. Otherwise, one could assume the reward from twog rapes is greater than two pumpkins. EIther way it is still a copy machine.
+
+Condition 3: No chip values are given, thus, it is impossible to figure out what type of machine Bob is playing on.
+
+=== Subject 81: Condition order: [2 1 3] ===
+Ratings: [2 6 4] 
+Makes sense? [6;1] 
+Makes sense? [1;7] 
+Makes sense? [6;6] 
+Condition 1: His choice would make sense if it were a Random machine because he does not know the chip value of getting a pair of yellow fruit or a pair of yellow fruit and raddish. So he just has to choose between the fruit and raddish. And what reward he gets is totally based on luck.                                                                                                                                                                                                                                                                                  His choice would not make sense at all if it were a Copy machine because he would have picked raddish to get the highest chip value.                                                                                                                                                                                                                                                                                                                                                                                                                                Based on his choice, I think it is a random machine, so he does not have a choice but to pick randomly between the fruit and the raddish.                                                                                                                                         
+
+Condition 2: Her choice would not make sense if it were a Random Machine because the machine gave out grape, so she should have chosen pumpkin to get the highest reward.                                                                                                                                                                                                                                                              Her choice would make sense if it were a Copy Machines because she did not know what the rewards were, so she could either chose grape or pumpkin. How much reward she gets is based on luck.                                                                                                                                                                                                                             I think the Copy machine is on this ship because if it were a Random machine, she would have picked pumpkin after getting a grape from the machine. With the copy machine, she does not really have a choice.
+
+Condition 3: Her choice would make sense if it were a random machine because she does not know any of the chip value. So she just has to randomly guess which one to choose, and hope that she can get a higher chip value.                                                                                                                                                                                                              Her choice would still make sense if it were a copy machine with the same reason above.                                                                                                                                                                                                                                                                                                                                     Based on the information given, I can't tell what typr of machine is on this chip because everything is chosen randomly; there's no known value.                                                              
+
+=== Subject 82: Condition order: [1 2 3] ===
+Ratings: [4 4 4] 
+Makes sense? [5;5] 
+Makes sense? [5;5] 
+Makes sense? [5;5] 
+Condition 1: It could be a random machine because Alice could have chosen either the grape or the pumpkin for the second picture if the first picture was chosen as the grape picture. It could also be a copy machine in which Alice chose the grape picture, and it was displayed on both boxes. You can't tell what type of machine it is though because there is equal likelihood that the machine can be a random machine or a copy machine.
+
+Condition 2: same explanation as previous.
+
+Condition 3: same explanation as before
+
+=== Subject 83: Condition order: [1 3 2] ===
+Ratings: [1 7 4] 
+Makes sense? [4;1] 
+Makes sense? [1;4] 
+Makes sense? [4;4] 
+Condition 1: If the machine was a copy machine, she wouldve chosen the pumpkin for the $1000 prize. She didn't, so this is definitely a random machine.
+
+Condition 2: If the machine was a Random Machine, she would have chosen the grapes image because there would be a 50% chance of her winning $1000. That's an expected gain of $500. Her choice restricts her possible earnings to $1, $2, or $5, so unless she was in dire need of $2 or $5, her choice would not make sense.
+
+Condition 3: We don't know the chip values of each outcome, and we don't know which outcomes are possible, so we can't tell if Bob's choice makes sense. We also can't tell what type of machine this is.
+
+=== Subject 84: Condition order: [3 2 1] ===
+Ratings: [4 7 4] 
+Makes sense? [4;4] 
+Makes sense? [1;7] 
+Makes sense? [7;7] 
+Condition 1: Cindy's outcome was two watermellons, which is possible with either a random or copy machine.  She however, didn't choose the two blueberry pictures, indicating that she wasn't aiming for the highest chip value.  Either outcome is equally likely in this case. 
+
+Condition 2: Based on bob's outcome, he could have chosen to obtain the maximum amount in chip value if the machine was random, and he had chosen the other raddish looking picture.  However, he chose the pear looking picture, which is duplicated.  This would make sense if the machine were a copy machine, because the same picture appears twice, and it is possible that having two pears is the best possible attainable outcome for a copy machine.  
+
+Condition 3: Because both her answers are both grape, and there is another choice involving grapes, which she could have chosen, it is probable that the machine coppied her answer.  However, it is also equally likely that the machine is random, and having two grape keys was the best possible outcome for her.  
+
+=== Subject 85: Condition order: [3 1 2] ===
+Ratings: [4 7 4] 
+Makes sense? [7;7] 
+Makes sense? [1;7] 
+Makes sense? [7;7] 
+Condition 1: Same as Alice: Bob's choice works for either machine so you can't tell which Machine Bob used.
+
+Condition 2: Cindy's choice would not make sense on a Random Machine. $1000 is the highest chip value so she should have selected blueberries if she wanted the highest gain.                                                                                                                                                                Cindy's choice would make sense on a Copy Machine.                                                                                                              
+
+Condition 3: You don't know what machine Alice used because her choices would make sense on either machine. 
+
+=== Subject 86: Condition order: [2 3 1] ===
+Ratings: [1 7 4] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [7;7] 
+Condition 1: In this case, the 1000 chip value key is known. Thus, the choice between watermelon and blackberries is easy -- you would optimally/ideally choose the grapes. The only way you would not choose this was if it was random --in that case, the watermelon is given to you first and you would select the second picture on the basis of the second highest amount in the chip pool. 
+
+Condition 2: The random machine (randomly) assigns a picture for the first box. Thus, the goal of the game is to obtain the highest chip value--namely 1000. As the first one is chosen, the most optimal choice would be to choose the picture corresponding to the 1000 chip value. In this case, the pumpkin. Thus, the copy machine must be the one that Alice has. 
+
+Condition 3: In this case, the chip value is unknon --only Bob knows what the chips are worth. Thus, it is difficult to obtain which machine is the right one as the driving force of choice is largely the chip value. It would make sense that both could be on the ship. 
+
+=== Subject 87: Condition order: [2 1 3] ===
+Ratings: [1 7 5] 
+Makes sense? [4;1] 
+Makes sense? [1;4] 
+Makes sense? [4;5] 
+Condition 1: For a copy machine the best choice is the onion, as it will give the 1000 reward. Bob chose the pear, so it must have been a random machine
+
+Condition 2: If grapes was the random slot, the best choice is the pumpkin, as it will give 1000. This wasn't chosen, so the machine is probably a copy machine 
+
+Condition 3: Not knowing any chip values, a random machine gives two identical pictures half the time, a copy mahine gives identical pictures all the time. As such it is more likely a copy machine, but there is no way to be sure
+
+=== Subject 88: Condition order: [1 2 3] ===
+Ratings: [1 7 4] 
+Makes sense? [7;1] 
+Makes sense? [1;4] 
+Makes sense? [4;4] 
+Condition 1: If it was a copy machine, she would have selected the pumpkin in order to win $1000.  And if it was a random machine, it would have had to start with the grapes.
+
+Condition 2: If it was a random machine, Bob would have logically selected the onion for the second image in order to get $1000. However, if it was a copy machine, the $1000 win would be impossible, so he would choose the highest payoff between two onions or two squashes, which we assume would be two squashes.
+
+Condition 3: There is no way to know either way.
+
+=== Subject 89: Condition order: [1 3 2] ===
+Ratings: [1 7 4] 
+Makes sense? [5;1] 
+Makes sense? [1;7] 
+Makes sense? [4;4] 
+Condition 1: If the machine was a copy machine, Alice would have chosen the pumpkin to get the $1000.  Therefore, the machine must be a random machine
+
+Condition 2: It must be a copy machine because if it was a random machine, Cindy would have chosen the blueberry to get $1000.
+
+Condition 3: It's hard to know whether this is a copy machine or a random machine because I don't know what any of the chip values are, so it is hard to know what Bob was thinking.
+
+=== Subject 90: Condition order: [3 2 1] ===
+Ratings: [1 1 4] 
+Makes sense? [6;1] 
+Makes sense? [6;1] 
+Makes sense? [6;6] 
+Condition 1: Cindy's choice doesn't make sense if it was a copy machine since the two pictures needed to get $1000 are blueberries and she chose a watermelon which means she knows she would get less than $1000. If it was a random machine and the machine chose a watermelon and the highest possible amount of money she could get was from choosing two watermelons, then her choice would make sense. 
+
+Condition 2: Bob's choice wouldn't make any sense if it was a Copy machine since Bob knows that that combination won't give him the most amount of money so it would be foolish of him to choose that when he knows what he has to pick for a guarentee of getting $1000.
+
+Condition 3: Her choice could make sense either way since I don't know the value of the chips.
+
+=== Subject 91: Condition order: [3 1 2] ===
+Ratings: [4 4 4] 
+Makes sense? [4;4] 
+Makes sense? [4;4] 
+Makes sense? [4;4] 
+Condition 1: i have no idea
+
+Condition 2: I don't know really.
+
+Condition 3: i have no clue
+
+=== Subject 92: Condition order: [2 3 1] ===
+Ratings: [5 7 5] 
+Makes sense? [4;5] 
+Makes sense? [1;5] 
+Makes sense? [4;5] 
+Condition 1: Again, because Cindy does not know that both blueberries gives her the largest sum of money, I cannot completely assume that this is copy machine or a random machine, but since they are the same picture I feel that the chances are slightly greater that it is a copy machine.
+
+Condition 2: If it was random she would probably have chosen a pumpkin to get the $1000 since grape was given. Since both are grape and the second is not pumpkin, I believe she had a copy machine.
+
+Condition 3: Since the chip values are unknown to me, the only thing I can deduce is that the pictures are the same, which gives me a somewhat higher chance that it is a copy machin.
+
+=== Subject 93: Condition order: [2 1 3] ===
+Ratings: [1 7 4] 
+Makes sense? [5;1] 
+Makes sense? [1;7] 
+Makes sense? [4;4] 
+Condition 1: If Bob were to use a copy machine, he would choose the 1000 reward easily, where as with a random machine he lacks 1 choice in the process, thus diminshing his chance at reward leading him to choose the next greatest
+
+Condition 2: the choice would most likely be made on a copy machine because the highest value (known to Alice) is not the same image, which on a random machine she would have the choice to make.
+
+Condition 3: There is not sufficient information to determine her judgements or the context. This choice is possible by copy machine or random, and the evidence for her choice I would normally tie to a higher reward level which is unavailable.
+
+=== Subject 94: Condition order: [1 2 3] ===
+Ratings: [1 7 4] 
+Makes sense? [4;1] 
+Makes sense? [1;4] 
+Makes sense? [4;4] 
+Condition 1: If It was a Copy Machine, she would probably choose the pumpkin instead of grapes
+
+Condition 2: If it was random machine and the machine randomly chose the pear, Bob will probably choose the onions since that has the highest cheap value.
+
+Condition 3: I know no cheap value so i have no bases to make a judgement.
+
+=== Subject 95: Condition order: [1 3 2] ===
+Ratings: [1 7 4] 
+Makes sense? [5;1] 
+Makes sense? [1;7] 
+Makes sense? [4;4] 
+Condition 1: If it was a copy machine, Alice would have picked the other picture, the pumpkin, and both would have appeared, getting her a 1000$ prize. Therefore, it was definitely a random machine
+
+Condition 2: If it had been a random machine, Cindy could have picked the picture of blueberries as the second picture, and gained the highest dollar reward amount.
+
+Condition 3: There is no way to tell, not knowing what the different dollar rewards of the sets of pictures are. It may have been a random machine, and he could have picked another of the same picture to gain the highest dollar reward. Or, it could have been a copy machine, and he could have done two of this picture to get the highest dollar reward.
+
+=== Subject 96: Condition order: [3 2 1] ===
+Ratings: [1 1 4] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [7;7] 
+Condition 1: If the machine was a Random Machine, Cindy would have the choice of melon-melon or melon-berry. If it was a Copy Machine, Cindy would have the choice of melon-melon or berry-berry. Since berry-berry has the highest value and she did not pick it, it is unlikely the machine was a Copy Machine. Therefore the machine was almost definitely a Random Machine.
+
+Condition 2: If the machine was a Random Machine, Bob would have a choice of pear-pear or pear-apple. If the machine was a Copy Machne, he would have a choice between pear-pear and apple-apple. Since he chose pear-pear. it has a higher value than apple-apple. Pear-pear cannot have a higher value than pear-apple, so we know that it has the second highest value, $5. Since his decision does not make sense for a Random Machine but makes sense for a Copy Machine, it was probably a Copy Machine.
+
+Condition 3: If the machine was a Copy Machine, Alice would choose either pumpkin-pumpkin or grape-grape, depending on which has the higher value. If the machine was a Random Machine, she would have a choice of grape-grape or grape-pumpkin. Since she chose the option of grape-grape, it stands that it has a higher value than grape-pumpkin or pumpkin-pumpkin. Since we don't know the value of the last combination (pumpkin-grape), we cannot tell if she would have picked it had she the option on a Random Machine. 
+
+=== Subject 97: Condition order: [3 1 2] ===
+Ratings: [1 7 3] 
+Makes sense? [7;1] 
+Makes sense? [1;7] 
+Makes sense? [7;7] 
+Condition 1: He would have choesn the onions if it were a copy machine because they're worth 1000
+
+Condition 2: If it were a random. she would have chosen the blueberries because that combination is worth the 1000
+
+Condition 3: random seems more likely, yet both are possible
+
+=== Subject 98: Condition order: [2 3 1] ===
+Ratings: [1 6 4] 
+Makes sense? [6;1] 
+Makes sense? [1;4] 
+Makes sense? [4;4] 
+Condition 1: It would mean passing up $1000 if it was a copy machine but if it is a random machine, it would probably make sense
+
+Condition 2: Assuming the first one selected was done by the machine (if it is a random machine) it would not make sense to do anything but the pumkin, so it would almost definitely be a copy machine where choosing double grape would probably mean that the tan chip is worth more than the purple
+
+Condition 3: It is completely inconclusive because the values are completely unknown
+
+=== Subject 99: Condition order: [2 1 3] ===
+Ratings: [1 7 4] 
+Makes sense? [4;1] 
+Makes sense? [1;4] 
+Makes sense? [4;4] 
+Condition 1: We don't know because we don't know the value of 2 yellow objects vs the value of a yellow object, then an onion.                                                                                                                                                                                                                               If this was a Copy Machine, Bob would have copied the onion to get $1000, which is the highest price total.                                                                                                                                                                                                                                     I think that this is a Random Machine for the reasons I outlined in question 2. It makes no sense for Bob to copy the yellow object, so it must have been given to him. 
+
+Condition 2: We know that this is not a Random Machine because Alice would have chosen the pumpkin as her option instead of the grape - we know this because the combination of a grape first, then a pumpkin is worth $1000, the highest value. If this were a Random Machine, Alice had the opportunity to win $1000 but chose not to, which doesn't make any sense.                                                                                                                                                                                                                                                                                                                                                           We do not know if the machine was a Copy Machine because we do not know the value of getting two pumpkins compared to the value of getting two grapes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              We know it is not a Random Machine for the same reason as number 1. (I am assuming that the goal of each individual is to make as much money as possible).                                                                                                                                                                                                
+
+Condition 3: We cannot tell anything about this machine because we don't have the corresponding values for outcome keys. 
+
